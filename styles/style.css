@@ -181,6 +181,15 @@ code {
 .logo {
   height: 1em;
 }
+.counter {
+  font-size: 1em;
+  padding: 50px;
+}
+.botonContador {
+  font-size: 1.5em;
+  padding: 10px 20px;
+  margin: 10px 20px 10px 20px;
+}
 
 @media (max-width: 600px) {
   .grid {
